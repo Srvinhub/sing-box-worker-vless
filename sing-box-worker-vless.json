@@ -147,7 +147,7 @@
            "tag": "proxy",
            "server": "优选IP",
            "server_port": 443,
-           "uuid": "用户UUID",
+           "uuid": "UUID",
            "tls": {
              "enabled": true,
              "server_name": "自定义域名",
