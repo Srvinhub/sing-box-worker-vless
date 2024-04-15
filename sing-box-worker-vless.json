@@ -145,7 +145,7 @@
         {
            "type": "vless",
            "tag": "proxy",
-           "server": "优选IP",
+           "server": "服务器优选地址",
            "server_port": 443,
            "uuid": "UUID",
            "tls": {
