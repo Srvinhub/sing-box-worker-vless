@@ -145,12 +145,12 @@
         {
            "type": "vless",
            "tag": "proxy",
-           "server": "",
+           "server": "优选IP",
            "server_port": 443,
-           "uuid": "",
+           "uuid": "用户UUID",
            "tls": {
              "enabled": true,
-             "server_name": "",
+             "server_name": "自定义域名",
              "insecure": false,
              "utls": {
                "enabled": true,
@@ -161,7 +161,7 @@
              "type": "ws",
              "path": "/?ed=2048",
              "headers": {
-               "Host": ""
+               "Host": "自定义域名"
              }
            }
         },
